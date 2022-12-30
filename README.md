@@ -1,7 +1,5 @@
 # Java-Programming
-Basic to Intermediate programs of java in 10 modules
-
-There are practice programs as per modules given below: 
+Basic to Intermediate practice programs of java as per modules given below: 
   
       MODULE 3: Getting Started with Java
 
