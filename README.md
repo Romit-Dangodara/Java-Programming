@@ -22,7 +22,8 @@ Basic to Intermediate practice programs of java as per modules given below:
       MODULE 12 Classes & Objects
 
 
-      Few Questions Solved are listed below: 
+Few Questions Solved are listed below: 
+                      
                       Simple interest calculator
                       M3_Calculator
 
